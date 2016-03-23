@@ -1,0 +1,30 @@
+.left {
+	background-color:lightblue;
+	margin:10px;
+}
+
+.right {
+	/*background-color:pink;*/
+}
+
+#buttonArea {
+	margin:10px;
+}
+
+.head:hover, a:hover {
+	cursor:pointer;
+}
+
+h1 {
+	font-family: 'Averia Serif Libre', cursive;
+	/*font-family: 'Delius Swash Caps', cursive;*/
+	font-size: 70px;
+}
+
+table {
+	font-family: 'Averia Serif Libre', cursive;
+}
+
+h3 {
+	font-family: 'Averia Serif Libre', cursive;
+}

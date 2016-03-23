@@ -1,0 +1,119 @@
+body{	
+		background-color:black;
+
+		background-image: url(blue.jpg);
+	}
+
+	/* .head:hover {
+		cursor:pointer;
+	} */
+
+
+	h1 {
+text-align: center;
+		font-family: 'Poiret One', cursive;
+		color: white;
+	}
+
+	h3{font-family: 'Poiret One', cursive;
+	background-color: black;
+	width: 300px;
+	height: 40px;
+	text-align:  center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #0066ff;
+	border-style: solid;
+	border-color: #0066ff;
+	border-width: 1px;
+	padding-top: 5px;
+}
+.head{
+	color: #0066ff;
+
+}
+
+table {
+	
+	font-family: 'Poiret One', cursive;
+
+}
+.jumbotron{
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: transparent;
+	
+	color: white;
+}
+th{
+	background-color: black;
+	font-size: 20px;
+}
+#functionButton{
+	color: white;
+	background-color: black;
+	border-radius: 10px;
+	
+	border-color: #0066ff;
+	
+	
+	cursor:pointer;
+
+}
+#submitbutton{
+	color: white;
+	
+	border-radius: 10px;
+	background-color: black;
+	border-color: #0066ff;
+	border-style: solid;
+}
+
+#submitbutton:hover {
+	background-color: #0066ff;
+}
+
+#functionButton:hover {
+	background-color: #0066ff;
+}
+
+
+
+#theTable{
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border-style: solid;
+	border-width: 1px;
+}
+tr:hover {
+	background-color: #0066ff;
+}
+td {color:black;}
+td:hover {
+	background-color:black;
+	background-color: #0066ff;
+}
+a {
+	color: white;	
+	text-decoration: underline;
+}
+a:hover {
+	color: white;
+}
+#searchterm{
+	color: #0066ff
+}
+
+#buttonArea{
+	color: #0066ff;
+}
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 75%;
+}
+i{
+width: 100px;
+}

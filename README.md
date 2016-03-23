@@ -1,1 +1,2 @@
-# Api-Project-z
+# API-Project
+Project utilizing multiple APIs and Firebase.
